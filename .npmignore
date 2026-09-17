@@ -1,0 +1,5 @@
+# Nothing here is source; keep it that way.
+node_modules/
+*.map
+*.log
+.DS_Store
